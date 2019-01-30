@@ -1,0 +1,13 @@
+1548740856362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Julia\\AppData\\Local\\Temp\\rust_mozprofile.FSni0umdy4Hn"
+Unable to read VR Path Registry from C:\Users\Julia\AppData\Local\openvr\openvrpaths.vrpath
+1548740858298	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Julia\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Julia\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Julia\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Julia\AppData\Local\openvr\openvrpaths.vrpath
+1548740860230	Marionette	INFO	Listening on port 60707
+1548740860248	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
